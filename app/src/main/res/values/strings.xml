@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AppNotesMenues</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search Action</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="popup_one">Popup One</string>
+    <string name="action_notes">Notes Action</string>
+    <string name="action_info">Info Action</string>
 </resources>
